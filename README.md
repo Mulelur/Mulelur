@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg">
+#### Software Developer
 
 ## Info
 
@@ -16,7 +16,7 @@ Hi There, I'm Rotonda. Friendly Neighbourhood Programmer From South Africa.
 
 ## Languages
 
-![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=orange)
